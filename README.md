@@ -1,16 +1,39 @@
-### Hi there 👋
+### Hello, Im Rodney Soares
+<a href="https://linkedin.com/in/rodney-soares-7236178b
 
-<!--
-**Ethicalfury/Ethicalfury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
 
-Here are some ideas to get you started:
+I am a recent graduate of University Of Central Florida Boot Camp Cyber Security Program, my passion is in both offensive and defensive strategies within a cyber security role. I am eager to leverage my skills and knowledge to be a valued asset to a companies security team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+[Provide Objective]
+I have grown to have a deep resiliant and determined passion to become successful in the cybersecurity field, eager to continue learning and expanding on my skill sets, specifically looking to acquire a position with Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Certifications
+currently half way done with Google Cyber Security Cert
+
+Will be enrolling in Comptia Security + 2 month program within next few weeks
+
+## Microsoft Virtual Projects
+
+
+## Linux Virtual Projects
+
+## Python Virtual Projects
+
+## SIEM Virtual Projects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
