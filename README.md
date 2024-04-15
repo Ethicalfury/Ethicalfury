@@ -6,7 +6,6 @@
 I am a recent graduate of University Of Central Florida Boot Camp Cyber Security Program, my passion is in both offensive and defensive strategies within a cyber security role. I am eager to leverage my skills and knowledge to be a valued asset to a companies security team.
 
 ## Objective
-[Provide Objective]
 I have grown to have a deep resiliant and determined passion to become successful in the cybersecurity field, eager to continue learning and expanding on my skill sets, specifically looking to acquire a position with Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Certifications
@@ -24,6 +23,10 @@ Will be enrolling in Comptia Security + 2 month program within next few weeks
 
 
 ## Python Virtual Projects
+
+
+## SQL Virtual Projects
+
 
 ## SIEM Virtual Projects
 
