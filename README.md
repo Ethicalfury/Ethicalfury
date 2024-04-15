@@ -18,6 +18,7 @@ Will be enrolling in Comptia Security + 2 month program within next few weeks
 
 
 ## Linux Virtual Projects
+[Google Activity Install software in a Linux distribution lab.docx](https://github.com/Ethicalfury/Ethicalfury/files/14974162/Google.Activity.Install.software.in.a.Linux.distribution.lab.docx)
 
 
 ## Python Virtual Projects
