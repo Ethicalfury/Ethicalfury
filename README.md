@@ -19,6 +19,7 @@ Will be enrolling in Comptia Security + 2 month program within next few weeks
 
 ## Linux Virtual Projects
 
+
 ## Python Virtual Projects
 
 ## SIEM Virtual Projects
