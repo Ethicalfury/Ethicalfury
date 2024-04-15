@@ -9,6 +9,10 @@ I am a recent graduate of University Of Central Florida Boot Camp Cyber Security
 I have grown to have a deep resiliant and determined passion to become successful in the cybersecurity field, eager to continue learning and expanding on my skill sets, specifically looking to acquire a position with Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Certifications
+
+[Rodney Soares.pdf](https://github.com/Ethicalfury/Ethicalfury/files/14983078/Rodney.Soares.pdf)
+
+
 currently half way done with Google Cyber Security Cert
 
 Will be enrolling in Comptia Security + 2 month program within next few weeks
