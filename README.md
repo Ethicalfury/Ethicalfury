@@ -10,8 +10,7 @@ I have grown to have a deep resiliant and determined passion to become successfu
 
 ## Certifications
 
-[Rodney Soares.pdf](https://github.com/Ethicalfury/Ethicalfury/files/14983078/Rodney.Soares.pdf)
-
+[UCF Cyber Defense Professional Certificate Program.pdf](https://github.com/Ethicalfury/Ethicalfury/files/14983104/UCF.Cyber.Defense.Professional.Certificate.Program.pdf)
 
 currently half way done with Google Cyber Security Cert
 
