@@ -16,6 +16,7 @@ Will be enrolling in Comptia Security + 2 month program within next few weeks
 ## Microsoft Virtual Projects
 [how to download windows 10 lab environment virtual box step by step.pptx](https://github.com/Ethicalfury/Ethicalfury/files/14974173/how.to.download.windows.10.lab.environment.virtual.box.step.by.step.pptx)
 
+[HOW TO DOWNLOAD VIRTUAL BOX STEP BY STEP.pdf](https://github.com/Ethicalfury/Ethicalfury/files/14981668/HOW.TO.DOWNLOAD.VIRTUAL.BOX.STEP.BY.STEP.pdf)
 
 
 ## Linux Virtual Projects
