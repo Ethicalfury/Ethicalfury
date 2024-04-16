@@ -33,6 +33,9 @@ Will be enrolling in Comptia Security + 2 month program within next few weeks
 
 [Google Activity Apply more filters in SQL lab.docx](https://github.com/Ethicalfury/Ethicalfury/files/14982975/Google.Activity.Apply.more.filters.in.SQL.lab.docx)
 
+[Google Activity Filter with AND, OR, and NOT.docx](https://github.com/Ethicalfury/Ethicalfury/files/14987170/Google.Activity.Filter.with.AND.OR.and.NOT.docx)
+
+
 
 
 ## SIEM Virtual Projects
