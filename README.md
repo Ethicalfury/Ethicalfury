@@ -1,5 +1,6 @@
 ### Hello, Im Rodney Soares
-<a href="https://linkedin.com/in/rodney-soares-7236178b
+
+"https://linkedin.com/in/rodney-soares-7236178b
 
 ## Introduction
 
