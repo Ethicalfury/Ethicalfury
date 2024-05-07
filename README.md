@@ -13,9 +13,9 @@ I have grown to have a deep resiliant and determined passion to become successfu
 
 [UCF Cyber Defense Professional Certificate Program.pdf](https://github.com/Ethicalfury/Ethicalfury/files/14983104/UCF.Cyber.Defense.Professional.Certificate.Program.pdf)
 
-currently half way done with Google Cyber Security Cert
+In final stages of completing Google Cyber Security Certification 
 
-Will be enrolling in Comptia Security + 2 month program within next few weeks
+Enrolled in Comptia Security + 2 month program to obtain certification 
 
 ## Microsoft Virtual Projects
 [how to download windows 10 lab environment virtual box step by step.pptx](https://github.com/Ethicalfury/Ethicalfury/files/14974173/how.to.download.windows.10.lab.environment.virtual.box.step.by.step.pptx)
