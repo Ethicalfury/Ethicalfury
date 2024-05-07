@@ -15,7 +15,7 @@ I have grown to have a deep resiliant and determined passion to become successfu
 
 In final stages of completing Google Cyber Security Certification 
 
-Enrolled in Comptia Security + 2 month program to obtain certification 
+Enrolled in Comptia Security + 2 month program to obtain Certification 
 
 ## Microsoft Virtual Projects
 [how to download windows 10 lab environment virtual box step by step.pptx](https://github.com/Ethicalfury/Ethicalfury/files/14974173/how.to.download.windows.10.lab.environment.virtual.box.step.by.step.pptx)
