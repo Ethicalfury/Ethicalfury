@@ -17,6 +17,9 @@ In final stages of completing Google Cyber Security Certification
 
 Enrolled in Comptia Security + 2 month program to obtain Certification 
 
+## Tryhackme Soc level 1 labs
+
+
 ## Microsoft Virtual Projects
 [how to download windows 10 lab environment virtual box step by step.pptx](https://github.com/Ethicalfury/Ethicalfury/files/14974173/how.to.download.windows.10.lab.environment.virtual.box.step.by.step.pptx)
 
