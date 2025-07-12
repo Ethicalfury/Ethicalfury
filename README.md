@@ -20,9 +20,9 @@ I have grown to have a deep resiliant and determined passion to become successfu
 
 [UCF Cyber Defense Professional Certificate Program.pdf](https://github.com/Ethicalfury/Ethicalfury/files/14983104/UCF.Cyber.Defense.Professional.Certificate.Program.pdf)
 
-In final stages of completing Google Cyber Security Certification 
+![Google Cyber Security Cert](https://github.com/user-attachments/assets/608b5ea2-081a-4d5e-9ab3-34f5092a8f9c)
 
-Enrolled in Comptia Security + 2 month program to obtain Certification 
+Will Obtain Comptia A + by Sep 2025
 
 ## Tryhackme Labs
 
