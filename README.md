@@ -9,7 +9,7 @@ I am a recent graduate of University Of Central Florida Boot Camp Cyber Security
 ## Objective
 I have grown to have a deep resiliant and determined passion to become successful in the cybersecurity field, eager to continue learning and expanding on my skill sets, specifically looking to acquire a position with Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Education
+## Certification Education Methods
 
 [Professor Messer Comptia A +220-1101 & 1102 Video Study Notes.docx](https://github.com/user-attachments/files/21191650/Professor.Messer.Comptia.A.%2B220-1101.1102.Video.Study.Notes.docx)
 
@@ -24,7 +24,7 @@ In final stages of completing Google Cyber Security Certification
 
 Enrolled in Comptia Security + 2 month program to obtain Certification 
 
-## Tryhackme Soc level 1 labs
+## Tryhackme Labs
 
 
 ## Microsoft Virtual Projects
