@@ -11,7 +11,7 @@ I have grown to have a deep resiliant and determined passion to become successfu
 
 ## Education
 
-[Professor Messer Comptia A +220-101 & 102 Video Study Notes.docx](https://github.com/user-attachments/files/21191645/Professor.Messer.Comptia.A.%2B220-101.102.Video.Study.Notes.docx)
+[Professor Messer Comptia A +220-1101 & 1102 Video Study Notes.docx](https://github.com/user-attachments/files/21191650/Professor.Messer.Comptia.A.%2B220-1101.1102.Video.Study.Notes.docx)
 
 
 
