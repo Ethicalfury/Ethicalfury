@@ -9,6 +9,11 @@ I am a recent graduate of University Of Central Florida Boot Camp Cyber Security
 ## Objective
 I have grown to have a deep resiliant and determined passion to become successful in the cybersecurity field, eager to continue learning and expanding on my skill sets, specifically looking to acquire a position with Security Operations Center (SOC) as a Tier 1 Analyst.
 
+## Education
+
+[Professor Messer Comptia A +220-101 & 102 Video BIOS & UEFI notes video 1.docx](https://github.com/user-attachments/files/21191643/Professor.Messer.Comptia.A.%2B220-101.102.Video.BIOS.UEFI.notes.video.1.docx)
+
+
 ## Certifications
 
 [UCF Cyber Defense Professional Certificate Program.pdf](https://github.com/Ethicalfury/Ethicalfury/files/14983104/UCF.Cyber.Defense.Professional.Certificate.Program.pdf)
