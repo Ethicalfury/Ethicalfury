@@ -49,6 +49,7 @@ I have grown to have a deep resiliant and determined passion to become successfu
 
 [Python lab Basic Python Commands .docx](https://github.com/user-attachments/files/21210823/Python.lab.Basic.Python.Commands.docx)
 
+[Creating a Rock-Paper-Scissors Game in Python Lab.docx](https://github.com/user-attachments/files/21211343/Creating.a.Rock-Paper-Scissors.Game.in.Python.Lab.docx)
 
 
 ## SQL Virtual Projects
