@@ -11,7 +11,8 @@ I have grown to have a deep resiliant and determined passion to become successfu
 
 ## Certification Education Methods
 
-[Professor Messer Comptia A + 220-1201 & 220-1202 Youtube Study Guide Notes.docx](https://github.com/user-attachments/files/21192860/Professor.Messer.Comptia.A.%2B.220-1201.220-1202.Youtube.Study.Guide.Notes.docx)
+[Professor Messer Comptia A + 220-1201 & 220-1202 Youtube Study Guide Notes.docx](https://github.com/user-attachments/files/21209510/Professor.Messer.Comptia.A.%2B.220-1201.220-1202.Youtube.Study.Guide.Notes.docx)
+
 
 
 
