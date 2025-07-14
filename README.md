@@ -44,6 +44,9 @@ Will Obtain Comptia A + by Sep 2025
 
 ## Python Virtual Projects
 
+[Python lab Basic Python Commands .docx](https://github.com/user-attachments/files/21210823/Python.lab.Basic.Python.Commands.docx)
+
+
 
 ## SQL Virtual Projects
 
