@@ -27,9 +27,12 @@ I have grown to have a deep resiliant and determined passion to become successfu
 
 ![Google Cyber Security Cert](https://github.com/user-attachments/assets/608b5ea2-081a-4d5e-9ab3-34f5092a8f9c)
 
-Will Obtain Comptia A + by Sep 2025
+
 
 ## Tryhackme Labs
+
+[try hack me cyber 101 Linux fundamentals Part 1 Basic Linux commands.pdf](https://github.com/user-attachments/files/21210908/try.hack.me.cyber.101.Linux.fundamentals.Part.1.Basic.Linux.commands.pdf)
+
 
 
 ## Microsoft Virtual Projects
