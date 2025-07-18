@@ -13,6 +13,7 @@ I have grown to have a deep resiliant and determined passion to become successfu
 
 [Professor Messer Comptia A + 220-1201 & 220-1202 Youtube Study Guide Notes.docx](https://github.com/user-attachments/files/21209510/Professor.Messer.Comptia.A.%2B.220-1201.220-1202.Youtube.Study.Guide.Notes.docx)
 
+[Shawn Walker V15 3rd Edition Comptia A ^M Study Guide 220 - 1201 ^0 1202.docx](https://github.com/user-attachments/files/21309784/Shawn.Walker.V15.3rd.Edition.Comptia.A.M.Study.Guide.220.-.1201.0.1202.docx)
 
 
 
