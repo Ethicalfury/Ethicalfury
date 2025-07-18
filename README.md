@@ -45,6 +45,8 @@ I have grown to have a deep resiliant and determined passion to become successfu
 ## Linux Virtual Projects
 [Google Activity Install software in a Linux distribution lab.docx](https://github.com/Ethicalfury/Ethicalfury/files/14974162/Google.Activity.Install.software.in.a.Linux.distribution.lab.docx)
 
+[Downloading Ubuntu Virtual Machine and configure their setup on, and upgrade packages  Virtual machine Lab.docx](https://github.com/user-attachments/files/21310633/Downloading.Ubuntu.Virtual.Machine.and.configure.their.setup.on.and.upgrade.packages.Virtual.machine.Lab.docx)
+
 
 ## Python Virtual Projects
 
