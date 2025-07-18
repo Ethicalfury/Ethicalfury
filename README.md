@@ -17,10 +17,6 @@ I have grown to have a deep resiliant and determined passion to become successfu
 
 
 
-
-
-
-
 ## Certifications
 
 ![UCF Cyber Defense Bootcamp Cert](https://github.com/user-attachments/assets/352bd6da-208a-46cf-b881-ce89f0d96ab1)
@@ -47,6 +43,7 @@ I have grown to have a deep resiliant and determined passion to become successfu
 
 [Downloading Ubuntu Virtual Machine and configure the setup, and upgrade packages  Virtual machine Lab.docx](https://github.com/user-attachments/files/21310718/Downloading.Ubuntu.Virtual.Machine.and.configure.the.setup.and.upgrade.packages.Virtual.machine.Lab.docx)
 
+[Ubuntu Set Timezone & Sync Time, Enable unattended security upgrades, install Zsh and Oh My Zsh for a better shell experience.docx](https://github.com/user-attachments/files/21312315/Ubuntu.Set.Timezone.Sync.Time.Enable.unattended.security.upgrades.install.Zsh.and.Oh.My.Zsh.for.a.better.shell.experience.docx)
 
 
 
