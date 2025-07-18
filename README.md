@@ -45,6 +45,11 @@ I have grown to have a deep resiliant and determined passion to become successfu
 
 [Ubuntu Set Timezone & Sync Time, Enable unattended security upgrades, install Zsh and Oh My Zsh for a better shell experience.docx](https://github.com/user-attachments/files/21312315/Ubuntu.Set.Timezone.Sync.Time.Enable.unattended.security.upgrades.install.Zsh.and.Oh.My.Zsh.for.a.better.shell.experience.docx)
 
+[Installing Python Dev tools, Install Snap & Flatpak Support, Install Guest Additions (for VMs like VirtualBox).docx](https://github.com/user-attachments/files/21313115/Installing.Python.Dev.tools.Install.Snap.Flatpak.Support.Install.Guest.Additions.for.VMs.like.VirtualBox.docx)
+
+
+
+
 
 
 ## Python Virtual Projects
