@@ -47,6 +47,7 @@ I have grown to have a deep resiliant and determined passion to become successfu
 
 [Installing Python Dev tools, Install Snap & Flatpak Support, Install Guest Additions (for VMs like VirtualBox).docx](https://github.com/user-attachments/files/21313115/Installing.Python.Dev.tools.Install.Snap.Flatpak.Support.Install.Guest.Additions.for.VMs.like.VirtualBox.docx)
 
+[Linux Security Lab on Ubuntu (Blue Team Focus) Lab System Hardening, Monitoring & Auditing, Malware & Intrusion Detection, Simulated Attacks (Red Team - Optional), Reporting and Cleanup.docx](https://github.com/user-attachments/files/21325094/Linux.Security.Lab.on.Ubuntu.Blue.Team.Focus.Lab.System.Hardening.Monitoring.Auditing.Malware.Intrusion.Detection.Simulated.Attacks.Red.Team.-.Optional.Reporting.and.Cleanup.docx)
 
 
 
