@@ -58,6 +58,9 @@ I have grown to have a deep resiliant and determined passion to become successfu
 [Deciding what game to code with my son Meykael Soares practice lab coin simulator and snake game lab.docx](https://github.com/user-attachments/files/21225737/Deciding.what.game.to.code.with.my.son.Meykael.Soares.practice.lab.coin.simulator.and.snake.game.lab.docx)
 
 
+[Python Lab Personal Finance Tracker with GUI Done on Ubuntu Linux OS.docx](https://github.com/user-attachments/files/21333652/Python.Lab.Personal.Finance.Tracker.with.GUI.Done.on.Ubuntu.Linux.OS.docx)
+
+
 [Python lab Basic Python Commands .docx](https://github.com/user-attachments/files/21210823/Python.lab.Basic.Python.Commands.docx)
 
 [Creating a Rock-Paper-Scissors Game in Python Lab.docx](https://github.com/user-attachments/files/21211343/Creating.a.Rock-Paper-Scissors.Game.in.Python.Lab.docx)
