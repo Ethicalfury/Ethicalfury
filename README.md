@@ -49,6 +49,7 @@ I have grown to have a deep resiliant and determined passion to become successfu
 
 [Linux Security Lab on Ubuntu (Blue Team Focus) Lab System Hardening, Monitoring & Auditing, Malware & Intrusion Detection, Simulated Attacks (Red Team - Optional), Reporting and Cleanup.docx](https://github.com/user-attachments/files/21325094/Linux.Security.Lab.on.Ubuntu.Blue.Team.Focus.Lab.System.Hardening.Monitoring.Auditing.Malware.Intrusion.Detection.Simulated.Attacks.Red.Team.-.Optional.Reporting.and.Cleanup.docx)
 
+[Network Traffic Visibility Lab SOC Level Packet Analysis Pipeline for Protocol Monitoring.docx](https://github.com/user-attachments/files/21400871/Network.Traffic.Visibility.Lab.SOC.Level.Packet.Analysis.Pipeline.for.Protocol.Monitoring.docx)
 
 
 
