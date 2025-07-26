@@ -1,4 +1,4 @@
-![Ethicalfury Logo]<img width="395" height="581" alt="Ethicalfury logo_cleanup" src="https://github.com/user-attachments/assets/9665ae4a-8d67-4f91-bae8-291657fba31d" />
+
 
 
 ### Hello, Im Rodney Soares
