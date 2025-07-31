@@ -66,7 +66,8 @@ I have grown to have a deep resiliant and determined passion to become successfu
 
 ## Python Virtual Projects
 
-[Deciding what game to code with my son Meykael Soares practice lab coin simulator and snake game lab.docx](https://github.com/user-attachments/files/21225737/Deciding.what.game.to.code.with.my.son.Meykael.Soares.practice.lab.coin.simulator.and.snake.game.lab.docx)
+[Project PixelBond Building Bond ^0 Skills through Python Game Development.docx](https://github.com/user-attachments/files/21535679/Project.PixelBond.Building.Bond.0.Skills.through.Python.Game.Development.docx)
+
 
 
 [Python Lab Personal Finance Tracker with GUI Done on Ubuntu Linux OS.docx](https://github.com/user-attachments/files/21333652/Python.Lab.Personal.Finance.Tracker.with.GUI.Done.on.Ubuntu.Linux.OS.docx)
