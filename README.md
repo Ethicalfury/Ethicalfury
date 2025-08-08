@@ -59,6 +59,7 @@ I have grown to have a deep resiliant and determined passion to become successfu
 
 [Building a Cross Platform Cybersecurity Lab Deploying a SOC Ready Kali Linux VM .docx](https://github.com/user-attachments/files/21441247/Building.a.Cross.Platform.Cybersecurity.Lab.Deploying.a.SOC.Ready.Kali.Linux.VM.docx)
 
+[Project Blackwatch Deploying a Honeypot with Log Forwarding and Threat Visualization.pdf](https://github.com/user-attachments/files/21678402/Project.Blackwatch.Deploying.a.Honeypot.with.Log.Forwarding.and.Threat.Visualization.pdf)
 
 
 
