@@ -62,6 +62,7 @@ I have grown to have a deep resiliant and determined passion to become successfu
 [Project Blackwatch Deploying a Honeypot with Log Forwarding and Threat Visualization.pdf](https://github.com/user-attachments/files/21678402/Project.Blackwatch.Deploying.a.Honeypot.with.Log.Forwarding.and.Threat.Visualization.pdf)
 
 
+[Project Ironclad Implementing Log Collectoin and SIEM for enhanced Security Kali and Ubuntu lab.pdf](https://github.com/user-attachments/files/21698418/Project.Ironclad.Implementing.Log.Collectoin.and.SIEM.for.enhanced.Security.Kali.and.Ubuntu.lab.pdf)
 
 
 
