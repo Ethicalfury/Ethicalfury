@@ -54,8 +54,8 @@ I have grown to have a deep resiliant and determined passion to become successfu
 
 [Network Traffic Visibility Lab SOC Level Packet Analysis Pipeline for Protocol Monitoring.docx](https://github.com/user-attachments/files/21400871/Network.Traffic.Visibility.Lab.SOC.Level.Packet.Analysis.Pipeline.for.Protocol.Monitoring.docx)
 
+[Project SentinelShield lab Establishing a Functional SOC Environment for Real-Time Threat Detection and Response.pdf](https://github.com/user-attachments/files/21697859/Project.SentinelShield.lab.Establishing.a.Functional.SOC.Environment.for.Real-Time.Threat.Detection.and.Response.pdf)
 
-[Project SentinelShield lab Establishing a Functional SOC Environment for Real-Time Threat Detection and Response.docx](https://github.com/user-attachments/files/21403279/Project.SentinelShield.lab.Establishing.a.Functional.SOC.Environment.for.Real-Time.Threat.Detection.and.Response.docx)
 
 [Building a Cross Platform Cybersecurity Lab Deploying a SOC Ready Kali Linux VM .docx](https://github.com/user-attachments/files/21441247/Building.a.Cross.Platform.Cybersecurity.Lab.Deploying.a.SOC.Ready.Kali.Linux.VM.docx)
 
