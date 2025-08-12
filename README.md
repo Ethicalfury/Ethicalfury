@@ -24,13 +24,13 @@ My portfolio demonstrates my ability to deliver real-world solutions through str
   
 
 
-3. **[Project SentinelShield lab Establishing a Functional SOC Environment for Real-Time Threat Detection and Response.pdf](https://github.com/user-attachments/files/21745157/Project.SentinelShield.lab.Establishing.a.Functional.SOC.Environment.for.Real-Time.Threat.Detection.and.Response.pdf)**
+2. **[Project SentinelShield lab Establishing a Functional SOC Environment for Real-Time Threat Detection and Response.pdf](https://github.com/user-attachments/files/21745157/Project.SentinelShield.lab.Establishing.a.Functional.SOC.Environment.for.Real-Time.Threat.Detection.and.Response.pdf)**
    Built a SOC environment integrating Suricata, Wazuh, and Kibana for incident detection.
    
 
-5. **[Project Blackwatch – Deploying a Honeypot with Log Forwarding & Threat Visualization](Project%20Blackwatch%20Deploying%20a%20Honeypot%20with%20Log%20Forwarding%20and%20Threat%20Visualization.pdf)**  
+3. **[Project Blackwatch – Deploying a Honeypot with Log Forwarding & Threat Visualization](Project%20Blackwatch%20Deploying%20a%20Honeypot%20with%20Log%20Forwarding%20and%20Threat%20Visualization.pdf)**  
    Deployed Cowrie honeypot, forwarding attacker data to Kibana for threat visualization.
-   [Uploading Project Blackwatch Deploying a Honeypot with Log Forwarding and Threat Visualization.pdf…]()
+
 
 
 ---
@@ -59,7 +59,7 @@ My portfolio demonstrates my ability to deliver real-world solutions through str
 ---
 
 ## 💻 Coding Projects
-1. **[Project PixelBond – Building Bond & Skills through Python Game Development](Project%20PixelBond%20Building%20Bond%20Skills%20through%20Python%20Game%20Development.pdf)**  
+1. **[Project PixelBond Building Bond Skills through Python Game Development.pdf](https://github.com/user-attachments/files/21745189/Project.PixelBond.Building.Bond.Skills.through.Python.Game.Development.pdf)**  
    Collaborative father-son Python project creating a Coin Flip simulator (Tkinter) and a Snake game (Pygame). Blends technical skill-building with mentorship, highlighting the power of accessible and inclusive learning.
 
 ---
