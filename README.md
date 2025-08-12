@@ -24,10 +24,10 @@ My portfolio demonstrates my ability to deliver real-world solutions through str
    [Project Ironclad Implementing Log Collectoin and SIEM for enhanced Security Kali and Ubuntu lab.pdf](https://github.com/user-attachments/files/21745084/Project.Ironclad.Implementing.Log.Collectoin.and.SIEM.for.enhanced.Security.Kali.and.Ubuntu.lab.pdf)
 
 
-3. **[Project SentinelShield – Establishing a Functional SOC Environment for Real-Time Threat Detection & Response](Project%20SentinelShield%20lab%20Establishing%20a%20Functional%20SOC%20Environment%20for%20Real-Time%20Threat%20Detection%20and%20Response.pdf)**  
-   Built a SOC environment integrating Suricata, Wazuh, and Kibana for incident detection.
-   [Project SentinelShield lab Establishing a Functional SOC Environment for Real-Time Threat Detection and Response.pdf](https://github.com/user-attachments/files/21745088/Project.SentinelShield.lab.Establishing.a.Functional.SOC.Environment.for.Real-Time.Threat.Detection.and.Response.pdf)
+3. **[Project SentinelShield lab Establishing a Functional SOC Environment for Real-Time Threat Detection and Response.pdf](https://github.com/user-attachments/files/21745157/Project.SentinelShield.lab.Establishing.a.Functional.SOC.Environment.for.Real-Time.Threat.Detection.and.Response.pdf)**
 
+   Built a SOC environment integrating Suricata, Wazuh, and Kibana for incident detection.
+   
 
 5. **[Project Blackwatch – Deploying a Honeypot with Log Forwarding & Threat Visualization](Project%20Blackwatch%20Deploying%20a%20Honeypot%20with%20Log%20Forwarding%20and%20Threat%20Visualization.pdf)**  
    Deployed Cowrie honeypot, forwarding attacker data to Kibana for threat visualization.
