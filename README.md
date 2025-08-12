@@ -1,103 +1,77 @@
+# Rodney Soares – Cybersecurity & IT Professional
+### Help Desk | SOC Analyst | Ethical Hacker in Training
 
+---
 
+## 📝 About Me
+I am a dedicated and detail-oriented cybersecurity professional with hands-on experience in SOC operations, threat detection, incident response, and system hardening.  
+My portfolio demonstrates my ability to deliver real-world solutions through structured lab projects, continuous study, and progressive skill development toward advanced security roles.
 
-### Hello, Im Rodney Soares
+---
 
-"https://linkedin.com/in/rodney-soares-7236178b
+## 📜 Certifications
 
-## Introduction
+| Certificate | Issued By | Date | Link |
+|-------------|-----------|------|------|
+| Google Cybersecurity Certificate | Google / Coursera | July 25, 2024 | [View on Credly](https://www.credly.com/badges) |
+| UCF Cyber Defense Professional Certificate | University of Central Florida | April 04, 2024 | — |
 
-I am a recent graduate of University Of Central Florida Boot Camp Cyber Security Program, my passion is in both offensive and defensive strategies within a cyber security role. I am eager to leverage my skills and knowledge to be a valued asset to a companies security team.
+---
 
-## Objective
-I have grown to have a deep resiliant and determined passion to become successful in the cybersecurity field, eager to continue learning and expanding on my skill sets, specifically looking to acquire a position with Security Operations Center (SOC) as a Tier 1 Analyst.
+## 🛠 Featured SOC & Security Labs
+1. **[Project Ironclad – Implementing Log Collection & SIEM for Enhanced Security (Kali & Ubuntu)](Project%20Ironclad%20Implementing%20Log%20Collectoin%20and%20SIEM%20for%20enhanced%20Security%20Kali%20and%20Ubuntu%20lab.pdf)**  
+   Configured Filebeat & Elastic Stack to centralize log collection, enabling real-time monitoring.
 
-## Certification Education Methods
+2. **[Project SentinelShield – Establishing a Functional SOC Environment for Real-Time Threat Detection & Response](Project%20SentinelShield%20lab%20Establishing%20a%20Functional%20SOC%20Environment%20for%20Real-Time%20Threat%20Detection%20and%20Response.pdf)**  
+   Built a SOC environment integrating Suricata, Wazuh, and Kibana for incident detection.
 
-[Professor Messer Comptia A + 220-1201 & 220-1202 Youtube Study Guide Notes.docx](https://github.com/user-attachments/files/21209510/Professor.Messer.Comptia.A.%2B.220-1201.220-1202.Youtube.Study.Guide.Notes.docx)
+3. **[Project Blackwatch – Deploying a Honeypot with Log Forwarding & Threat Visualization](Project%20Blackwatch%20Deploying%20a%20Honeypot%20with%20Log%20Forwarding%20and%20Threat%20Visualization.pdf)**  
+   Deployed Cowrie honeypot, forwarding attacker data to Kibana for threat visualization.
 
-[Shawn Walker V15 3rd Edition Comptia A ^M Study Guide 220 - 1201 ^0 1202.docx](https://github.com/user-attachments/files/21309784/Shawn.Walker.V15.3rd.Edition.Comptia.A.M.Study.Guide.220.-.1201.0.1202.docx)
+---
 
+## 🖥 Help Desk & Troubleshooting Labs
+- PC hardware assembly & component replacement  
+- OS installation & imaging  
+- Network troubleshooting with VirtualBox  
+- Printer setup, driver issues, and peripheral support  
 
+---
 
-## Certifications
+## 🔓 Ethical Hacking Progression 
+- Credential Attacks (Hydra on SSH/FTP/HTTP Basic Auth)  
+- Reconnaissance (Nmap, DNSenum, Nikto)  
+- Exploitation & vulnerability scanning  
+- Post-exploitation reporting  
 
-![UCF Cyber Defense Bootcamp Cert](https://github.com/user-attachments/assets/352bd6da-208a-46cf-b881-ce89f0d96ab1)
+---
 
+## 📊 SOC Log Capture & Threat Tracking
+- 90-day collection of live attack logs from honeypots & monitored servers  
+- Categorization by attack type (Brute force, Malware C2, Recon scans)  
+- Visual dashboards in Kibana  
 
-![Google Cyber Security Cert](https://github.com/user-attachments/assets/608b5ea2-081a-4d5e-9ab3-34f5092a8f9c)
+---
 
+## 📚 Study Materials
 
+### **CompTIA A+**
+- [Professor Messer – CompTIA A+ 220-1101 & 220-1102 YouTube Study Guide Notes](Professor%20Messer%20Comptia%20A%20plus%20220-1201%20220-1202%20Youtube%20Study%20Guide%20Notes.docx)
+- [Shawn Walker – CompTIA A+ Study Guide V15 3rd Edition 220-1101 & 220-1102](Shawn%20Walker%20V15%203rd%20Edition%20Comptia%20A%20%5EM%20Study%20Guide%20220%20-%201201%20%5E0%201202.docx)
 
-## Tryhackme Labs
+### **CompTIA Security+**
+- [Official CompTIA Security+ Student Guide](Downloadable%20Official%20CompTIA%20Security%2B%20Student%20Guide%20%281%29%20%281%29%20%281%29.pdf)
+- [Professor Messer – Security+ Exam Hacks](professor-messer-comptia-exam-hacks-v107s.pdf)
+- [Professor Messer – SY0-701 Security+ Course Notes](professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf)
 
-[try hack me cyber 101 Linux fundamentals Part 1 Basic Linux commands.pdf](https://github.com/user-attachments/files/21210908/try.hack.me.cyber.101.Linux.fundamentals.Part.1.Basic.Linux.commands.pdf)
+---
 
+## 📫 Contact
+- **GitHub:** [https://github.com/Ethicalfury](https://github.com/Ethicalfury)
+- **LinkedIn:** [https://www.linkedin.com/in/rodney-soares2/](https://www.linkedin.com/in/rodney-soares2/)
 
-
-## Microsoft Virtual Projects
-[how to download windows 10 lab environment virtual box step by step.pptx](https://github.com/Ethicalfury/Ethicalfury/files/14974173/how.to.download.windows.10.lab.environment.virtual.box.step.by.step.pptx)
-
-[HOW TO DOWNLOAD VIRTUAL BOX STEP BY STEP.pdf](https://github.com/Ethicalfury/Ethicalfury/files/14981668/HOW.TO.DOWNLOAD.VIRTUAL.BOX.STEP.BY.STEP.pdf)
-
-
-## Linux Virtual Projects
-[Google Activity Install software in a Linux distribution lab.docx](https://github.com/Ethicalfury/Ethicalfury/files/14974162/Google.Activity.Install.software.in.a.Linux.distribution.lab.docx)
-
-[Downloading Ubuntu Virtual Machine and configure the setup, and upgrade packages  Virtual machine Lab.docx](https://github.com/user-attachments/files/21310718/Downloading.Ubuntu.Virtual.Machine.and.configure.the.setup.and.upgrade.packages.Virtual.machine.Lab.docx)
-
-[Ubuntu Set Timezone & Sync Time, Enable unattended security upgrades, install Zsh and Oh My Zsh for a better shell experience.docx](https://github.com/user-attachments/files/21312315/Ubuntu.Set.Timezone.Sync.Time.Enable.unattended.security.upgrades.install.Zsh.and.Oh.My.Zsh.for.a.better.shell.experience.docx)
-
-[Installing Python Dev tools, Install Snap & Flatpak Support, Install Guest Additions (for VMs like VirtualBox).docx](https://github.com/user-attachments/files/21313115/Installing.Python.Dev.tools.Install.Snap.Flatpak.Support.Install.Guest.Additions.for.VMs.like.VirtualBox.docx)
-
-[Linux Security Lab on Ubuntu (Blue Team Focus) Lab System Hardening, Monitoring & Auditing, Malware & Intrusion Detection, Simulated Attacks (Red Team - Optional), Reporting and Cleanup.docx](https://github.com/user-attachments/files/21325094/Linux.Security.Lab.on.Ubuntu.Blue.Team.Focus.Lab.System.Hardening.Monitoring.Auditing.Malware.Intrusion.Detection.Simulated.Attacks.Red.Team.-.Optional.Reporting.and.Cleanup.docx)
-
-[Network Traffic Visibility Lab SOC Level Packet Analysis Pipeline for Protocol Monitoring.docx](https://github.com/user-attachments/files/21400871/Network.Traffic.Visibility.Lab.SOC.Level.Packet.Analysis.Pipeline.for.Protocol.Monitoring.docx)
-
-[Project SentinelShield lab Establishing a Functional SOC Environment for Real-Time Threat Detection and Response.pdf](https://github.com/user-attachments/files/21697859/Project.SentinelShield.lab.Establishing.a.Functional.SOC.Environment.for.Real-Time.Threat.Detection.and.Response.pdf)
-
-
-[Building a Cross Platform Cybersecurity Lab Deploying a SOC Ready Kali Linux VM .docx](https://github.com/user-attachments/files/21441247/Building.a.Cross.Platform.Cybersecurity.Lab.Deploying.a.SOC.Ready.Kali.Linux.VM.docx)
-
-[Project Blackwatch Deploying a Honeypot with Log Forwarding and Threat Visualization.pdf](https://github.com/user-attachments/files/21678402/Project.Blackwatch.Deploying.a.Honeypot.with.Log.Forwarding.and.Threat.Visualization.pdf)
-
-
-[Project Ironclad Implementing Log Collectoin and SIEM for enhanced Security Kali and Ubuntu lab.pdf](https://github.com/user-attachments/files/21698418/Project.Ironclad.Implementing.Log.Collectoin.and.SIEM.for.enhanced.Security.Kali.and.Ubuntu.lab.pdf)
-
-
-
-## Python Virtual Projects
-
-[Project PixelBond Building Bond ^0 Skills through Python Game Development.docx](https://github.com/user-attachments/files/21535679/Project.PixelBond.Building.Bond.0.Skills.through.Python.Game.Development.docx)
-
-
-
-[Python Lab Personal Finance Tracker with GUI Done on Ubuntu Linux OS.docx](https://github.com/user-attachments/files/21333652/Python.Lab.Personal.Finance.Tracker.with.GUI.Done.on.Ubuntu.Linux.OS.docx)
-
-
-[Python lab Basic Python Commands .docx](https://github.com/user-attachments/files/21210823/Python.lab.Basic.Python.Commands.docx)
-
-[Creating a Rock-Paper-Scissors Game in Python Lab.docx](https://github.com/user-attachments/files/21211343/Creating.a.Rock-Paper-Scissors.Game.in.Python.Lab.docx)
-
-
-## SQL Virtual Projects
-
-[Google Activity Apply more filters in SQL lab.docx](https://github.com/Ethicalfury/Ethicalfury/files/14982975/Google.Activity.Apply.more.filters.in.SQL.lab.docx)
-
-[Google Activity Filter with AND, OR, and NOT.docx](https://github.com/Ethicalfury/Ethicalfury/files/14987170/Google.Activity.Filter.with.AND.OR.and.NOT.docx)
-
-
-
-
-## SIEM Virtual Projects
-
-
-
-
-
-
-
-
+---
+*© 2025 Rodney Soares – Ethicalfury*
 
 
 
