@@ -19,13 +19,12 @@ My portfolio demonstrates my ability to deliver real-world solutions through str
 ---
 
 ## 🛠 Featured SOC & Security Labs
-1. **[Project Ironclad – Implementing Log Collection & SIEM for Enhanced Security (Kali & Ubuntu)](Project%20Ironclad%20Implementing%20Log%20Collectoin%20and%20SIEM%20for%20enhanced%20Security%20Kali%20and%20Ubuntu%20lab.pdf)**  
+1. **[Project Ironclad Implementing Log Collectoin and SIEM for enhanced Security Kali and Ubuntu lab.pdf](https://github.com/user-attachments/files/21745159/Project.Ironclad.Implementing.Log.Collectoin.and.SIEM.for.enhanced.Security.Kali.and.Ubuntu.lab.pdf)**
    Configured Filebeat & Elastic Stack to centralize log collection, enabling real-time monitoring.
-   [Project Ironclad Implementing Log Collectoin and SIEM for enhanced Security Kali and Ubuntu lab.pdf](https://github.com/user-attachments/files/21745084/Project.Ironclad.Implementing.Log.Collectoin.and.SIEM.for.enhanced.Security.Kali.and.Ubuntu.lab.pdf)
+  
 
 
 3. **[Project SentinelShield lab Establishing a Functional SOC Environment for Real-Time Threat Detection and Response.pdf](https://github.com/user-attachments/files/21745157/Project.SentinelShield.lab.Establishing.a.Functional.SOC.Environment.for.Real-Time.Threat.Detection.and.Response.pdf)**
-
    Built a SOC environment integrating Suricata, Wazuh, and Kibana for incident detection.
    
 
