@@ -30,7 +30,7 @@ My portfolio demonstrates my ability to deliver real-world solutions through str
 
 ---
 
-## 🖥 Help Desk & Troubleshooting Labs
+## 🖥 Help Desk & Troubleshooting Labs *(Coming Soon)*
 - PC hardware assembly & component replacement  
 - OS installation & imaging  
 - Network troubleshooting with VirtualBox  
@@ -38,7 +38,7 @@ My portfolio demonstrates my ability to deliver real-world solutions through str
 
 ---
 
-## 🔓 Ethical Hacking Progression 
+## 🔓 Ethical Hacking Progression *(In Progress)*
 - Credential Attacks (Hydra on SSH/FTP/HTTP Basic Auth)  
 - Reconnaissance (Nmap, DNSenum, Nikto)  
 - Exploitation & vulnerability scanning  
@@ -50,6 +50,12 @@ My portfolio demonstrates my ability to deliver real-world solutions through str
 - 90-day collection of live attack logs from honeypots & monitored servers  
 - Categorization by attack type (Brute force, Malware C2, Recon scans)  
 - Visual dashboards in Kibana  
+
+---
+
+## 💻 Coding Projects
+1. **[Project PixelBond – Building Bond & Skills through Python Game Development](Project%20PixelBond%20Building%20Bond%20Skills%20through%20Python%20Game%20Development.pdf)**  
+   Collaborative father-son Python project creating a Coin Flip simulator (Tkinter) and a Snake game (Pygame). Blends technical skill-building with mentorship, highlighting the power of accessible and inclusive learning.
 
 ---
 
@@ -72,10 +78,3 @@ My portfolio demonstrates my ability to deliver real-world solutions through str
 
 ---
 *© 2025 Rodney Soares – Ethicalfury*
-
-
-
-
-
-
-
