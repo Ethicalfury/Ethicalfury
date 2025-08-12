@@ -21,12 +21,18 @@ My portfolio demonstrates my ability to deliver real-world solutions through str
 ## 🛠 Featured SOC & Security Labs
 1. **[Project Ironclad – Implementing Log Collection & SIEM for Enhanced Security (Kali & Ubuntu)](Project%20Ironclad%20Implementing%20Log%20Collectoin%20and%20SIEM%20for%20enhanced%20Security%20Kali%20and%20Ubuntu%20lab.pdf)**  
    Configured Filebeat & Elastic Stack to centralize log collection, enabling real-time monitoring.
+   [Project Ironclad Implementing Log Collectoin and SIEM for enhanced Security Kali and Ubuntu lab.pdf](https://github.com/user-attachments/files/21745084/Project.Ironclad.Implementing.Log.Collectoin.and.SIEM.for.enhanced.Security.Kali.and.Ubuntu.lab.pdf)
 
-2. **[Project SentinelShield – Establishing a Functional SOC Environment for Real-Time Threat Detection & Response](Project%20SentinelShield%20lab%20Establishing%20a%20Functional%20SOC%20Environment%20for%20Real-Time%20Threat%20Detection%20and%20Response.pdf)**  
+
+3. **[Project SentinelShield – Establishing a Functional SOC Environment for Real-Time Threat Detection & Response](Project%20SentinelShield%20lab%20Establishing%20a%20Functional%20SOC%20Environment%20for%20Real-Time%20Threat%20Detection%20and%20Response.pdf)**  
    Built a SOC environment integrating Suricata, Wazuh, and Kibana for incident detection.
+   [Project SentinelShield lab Establishing a Functional SOC Environment for Real-Time Threat Detection and Response.pdf](https://github.com/user-attachments/files/21745088/Project.SentinelShield.lab.Establishing.a.Functional.SOC.Environment.for.Real-Time.Threat.Detection.and.Response.pdf)
 
-3. **[Project Blackwatch – Deploying a Honeypot with Log Forwarding & Threat Visualization](Project%20Blackwatch%20Deploying%20a%20Honeypot%20with%20Log%20Forwarding%20and%20Threat%20Visualization.pdf)**  
+
+5. **[Project Blackwatch – Deploying a Honeypot with Log Forwarding & Threat Visualization](Project%20Blackwatch%20Deploying%20a%20Honeypot%20with%20Log%20Forwarding%20and%20Threat%20Visualization.pdf)**  
    Deployed Cowrie honeypot, forwarding attacker data to Kibana for threat visualization.
+   [Uploading Project Blackwatch Deploying a Honeypot with Log Forwarding and Threat Visualization.pdf…]()
+
 
 ---
 
