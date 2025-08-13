@@ -28,7 +28,7 @@ My portfolio demonstrates my ability to deliver real-world solutions through str
    Built a SOC environment integrating Suricata, Wazuh, and Kibana for incident detection.
    
 
-3. **[Project Blackwatch – Deploying a Honeypot with Log Forwarding & Threat Visualization](Project%20Blackwatch%20Deploying%20a%20Honeypot%20with%20Log%20Forwarding%20and%20Threat%20Visualization.pdf).**  
+3. **[Project Blackwatch Deploying a Honeypot with Log Forwarding and Threat Visualization.pdf](https://github.com/user-attachments/files/21746195/Project.Blackwatch.Deploying.a.Honeypot.with.Log.Forwarding.and.Threat.Visualization.pdf).**
    Deployed Cowrie honeypot, forwarding attacker data to Kibana for threat visualization.
 
 
