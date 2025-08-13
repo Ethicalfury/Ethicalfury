@@ -19,23 +19,23 @@ My portfolio demonstrates my ability to deliver real-world solutions through str
 ---
 
 ## 🛠 Featured SOC & Security Labs
-1. **[Project Ironclad Implementing Log Collectoin and SIEM for enhanced Security Kali and Ubuntu lab.pdf](https://github.com/user-attachments/files/21745159/Project.Ironclad.Implementing.Log.Collectoin.and.SIEM.for.enhanced.Security.Kali.and.Ubuntu.lab.pdf)**
+1. **[Project Ironclad Implementing Log Collectoin and SIEM for enhanced Security Kali and Ubuntu lab.pdf](https://github.com/user-attachments/files/21745159/Project.Ironclad.Implementing.Log.Collectoin.and.SIEM.for.enhanced.Security.Kali.and.Ubuntu.lab.pdf).**
    Configured Filebeat & Elastic Stack to centralize log collection, enabling real-time monitoring.
   
 
 
-2. **[Project SentinelShield lab Establishing a Functional SOC Environment for Real-Time Threat Detection and Response.pdf](https://github.com/user-attachments/files/21745157/Project.SentinelShield.lab.Establishing.a.Functional.SOC.Environment.for.Real-Time.Threat.Detection.and.Response.pdf)**
+2. **[Project SentinelShield lab Establishing a Functional SOC Environment for Real-Time Threat Detection and Response.pdf](https://github.com/user-attachments/files/21745157/Project.SentinelShield.lab.Establishing.a.Functional.SOC.Environment.for.Real-Time.Threat.Detection.and.Response.pdf).**
    Built a SOC environment integrating Suricata, Wazuh, and Kibana for incident detection.
    
 
-3. **[Project Blackwatch – Deploying a Honeypot with Log Forwarding & Threat Visualization](Project%20Blackwatch%20Deploying%20a%20Honeypot%20with%20Log%20Forwarding%20and%20Threat%20Visualization.pdf)**  
+3. **[Project Blackwatch – Deploying a Honeypot with Log Forwarding & Threat Visualization](Project%20Blackwatch%20Deploying%20a%20Honeypot%20with%20Log%20Forwarding%20and%20Threat%20Visualization.pdf).**  
    Deployed Cowrie honeypot, forwarding attacker data to Kibana for threat visualization.
 
 
 
 ---
 
-## 🖥 Help Desk & Troubleshooting Labs *(Coming Soon)*
+## 🖥 Help Desk & Troubleshooting Labs 
 - PC hardware assembly & component replacement  
 - OS installation & imaging  
 - Network troubleshooting with VirtualBox  
@@ -43,7 +43,7 @@ My portfolio demonstrates my ability to deliver real-world solutions through str
 
 ---
 
-## 🔓 Ethical Hacking Progression *(In Progress)*
+## 🔓 Ethical Hacking Progression 
 - Credential Attacks (Hydra on SSH/FTP/HTTP Basic Auth)  
 - Reconnaissance (Nmap, DNSenum, Nikto)  
 - Exploitation & vulnerability scanning  
@@ -67,13 +67,14 @@ My portfolio demonstrates my ability to deliver real-world solutions through str
 ## 📚 Study Materials
 
 ### **CompTIA A+**
-- [Professor Messer – CompTIA A+ 220-1101 & 220-1102 YouTube Study Guide Notes](Professor%20Messer%20Comptia%20A%20plus%20220-1201%20220-1202%20Youtube%20Study%20Guide%20Notes.docx)
-- [Shawn Walker – CompTIA A+ Study Guide V15 3rd Edition 220-1101 & 220-1102](Shawn%20Walker%20V15%203rd%20Edition%20Comptia%20A%20%5EM%20Study%20Guide%20220%20-%201201%20%5E0%201202.docx)
+- [Professor Messer Comptia A plus 220-1201 220-1202 Youtube Study Guide Notes.docx](https://github.com/user-attachments/files/21745215/Professor.Messer.Comptia.A.plus.220-1201.220-1202.Youtube.Study.Guide.Notes.docx)
+- [Shawn Walker V15 3rd Edition Comptia A ^M Study Guide 220 - 1201 ^0 1202.docx](https://github.com/user-attachments/files/21745228/Shawn.Walker.V15.3rd.Edition.Comptia.A.M.Study.Guide.220.-.1201.0.1202.docx)
+
 
 ### **CompTIA Security+**
-- [Official CompTIA Security+ Student Guide](Downloadable%20Official%20CompTIA%20Security%2B%20Student%20Guide%20%281%29%20%281%29%20%281%29.pdf)
-- [Professor Messer – Security+ Exam Hacks](professor-messer-comptia-exam-hacks-v107s.pdf)
-- [Professor Messer – SY0-701 Security+ Course Notes](professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf)
+- [professor-messer-comptia-exam-hacks-v107s.pdf](https://github.com/user-attachments/files/21745240/professor-messer-comptia-exam-hacks-v107s.pdf)
+- [professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf](https://github.com/user-attachments/files/21745242/professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf)
+
 
 ---
 
