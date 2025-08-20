@@ -44,10 +44,10 @@ My portfolio demonstrates my ability to deliver real-world solutions through str
 ---
 
 ## 🔓 Ethical Hacking Progression 
-- Credential Attacks (Hydra on SSH/FTP/HTTP Basic Auth)  
-- Reconnaissance (Nmap, DNSenum, Nikto)  
-- Exploitation & vulnerability scanning  
-- Post-exploitation reporting  
+**[Project Horizon Scan Active Reconnaissance Detection with Nmap and DNS.pdf](https://github.com/user-attachments/files/21888305/Project.Horizon.Scan.Active.Reconnaissance.Detection.with.Nmap.and.DNS.pdf)**
+Simulated Nmap/DNS recon and operationalized Suricata→ELK detections with KQL and a recon dashboard; validated visibility under fast vs slowed scans.
+
+
 
 ---
 
