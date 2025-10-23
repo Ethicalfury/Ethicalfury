@@ -64,6 +64,12 @@ Simulated Nmap/DNS recon and operationalized Suricata→ELK detections with KQL 
 
 ---
 
+## Ai Created Music / Ai Created Artists 
+
+https://www.youtube.com/watch?v=y2EUYc1vzqY&list=PLlkQxzDA0b31XbCKk8h1yu0-kA4oqmuJN
+
+---
+
 ## 📚 Study Materials
 
 ### **CompTIA A+**
