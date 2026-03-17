@@ -36,7 +36,8 @@ My portfolio demonstrates my ability to deliver real-world solutions through str
 ---
 
 ## 🖥 Help Desk & Troubleshooting Labs 
-##  **[TSI-001 Project: DomainForge Project Type: Help Desk Operations | Identity and Access Management (IAM) | Active Directory Domain Services (AD DS) | Role-Based Access Control (RBAC)][TSI-001 Project DomainForge.pdf](https://github.com/user-attachments/files/26042371/TSI-001.Project.DomainForge.pdf)
+## **[Project DomainForge — Active Directory Domain Deployment and User Infrastructure.pdf](https://github.com/user-attachments/files/26042371/TSI-001.Project.DomainForge.pdf)**  
+Designed and deployed a Windows Server 2022 Active Directory domain environment, including OU structure, user provisioning, DNS configuration, and domain-joined client validation to simulate enterprise identity and access management operations.
 
 
 
