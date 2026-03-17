@@ -36,8 +36,9 @@ My portfolio demonstrates my ability to deliver real-world solutions through str
 ---
 
 ## 🖥 Help Desk & Troubleshooting Labs 
-##   Project DomainForge 
-[TSI-001 Project DomainForge.pdf](https://github.com/user-attachments/files/26042304/TSI-001.Project.DomainForge.pdf)
+##  **[TSI-001 Project: DomainForge Project Type: Help Desk Operations | Identity and Access Management (IAM) | Active Directory Domain Services (AD DS) | Role-Based Access Control (RBAC)][TSI-001 Project DomainForge.pdf](https://github.com/user-attachments/files/26042371/TSI-001.Project.DomainForge.pdf)
+
+
 
 ---
 
