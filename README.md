@@ -36,10 +36,8 @@ My portfolio demonstrates my ability to deliver real-world solutions through str
 ---
 
 ## 🖥 Help Desk & Troubleshooting Labs 
-- PC hardware assembly & component replacement  
-- OS installation & imaging  
-- Network troubleshooting with VirtualBox  
-- Printer setup, driver issues, and peripheral support  
+##   Project DomainForge 
+[TSI-001 Project DomainForge.pdf](https://github.com/user-attachments/files/26042304/TSI-001.Project.DomainForge.pdf)
 
 ---
 
